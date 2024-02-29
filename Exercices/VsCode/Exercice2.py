@@ -1,1 +1,1 @@
-fvzvzvzvz
+print("HELLO")
