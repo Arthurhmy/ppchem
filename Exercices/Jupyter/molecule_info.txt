@@ -1,0 +1,3 @@
+Molecule: Caffeine
+Image URL: https://github.com/Arthurhmy/ppchem/blob/main/caffeine-148821_1280.png
+Description: Caffeine is a central nervous system (CNS) stimulant of the methylxanthine class.
